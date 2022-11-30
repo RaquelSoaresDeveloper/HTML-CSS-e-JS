@@ -1,0 +1,28 @@
+.back{
+    background-color:red;
+}
+.pont{
+    list-style: none;
+}
+.img{
+    width: 10px;
+    height: 10px;
+}
+.center{
+    text-align:center;
+}
+.b{
+    background-color: white;
+}
+.cent{
+    justify-content:center;
+    align-items: center;
+}
+.ft{
+    width: 400px;
+    height: 300px;
+}
+.tm-social{
+    width: 40px;
+    height: 40px;
+}
